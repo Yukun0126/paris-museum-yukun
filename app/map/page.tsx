@@ -1,7 +1,7 @@
 "use client";
 
 import { Info, Maximize2, Sparkles } from "lucide-react";
-import { useEffect, useRef, useState } from "react";
+import { Suspense, useEffect, useRef, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { MobileShell } from "@/components/layout/MobileShell";
 import { CoreCollectionList } from "@/components/louvre/CoreCollectionList";
@@ -47,7 +47,7 @@ const floorNotes: Record<Floor, { theme: string; zones: string[]; tips: string }
   }
 };
 
-export default function MapPage() {
+function MapPageContent() {
   const searchParams = useSearchParams();
   const requestedFloor = searchParams.get("floor");
   const mapScrollerRef = useRef<HTMLDivElement>(null);
@@ -147,5 +147,25 @@ export default function MapPage() {
         </SectionCard>
       </section>
     </MobileShell>
+  );
+}
+
+export default function MapPage() {
+  return (
+    <Suspense
+      fallback={
+        <MobileShell withBottomNav>
+          <section className="px-5 py-8">
+            <SectionCard className="p-5">
+              <p className="eyebrow">Floor Atlas</p>
+              <h1 className="mt-2 text-3xl font-black leading-tight">卢浮宫分层地图</h1>
+              <p className="mt-3 text-sm leading-7 text-muted">正在整理楼层图...</p>
+            </SectionCard>
+          </section>
+        </MobileShell>
+      }
+    >
+      <MapPageContent />
+    </Suspense>
   );
 }
