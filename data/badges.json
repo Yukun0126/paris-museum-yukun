@@ -1,0 +1,44 @@
+[
+  {
+    "id": "first-louvre",
+    "title": "第一次抬头",
+    "description": "完成你的第一段卢浮宫中文导览",
+    "unlocked": true,
+    "icon": "sparkles"
+  },
+  {
+    "id": "three-icons",
+    "title": "三次停留",
+    "description": "见过蒙娜丽莎、胜利女神与米洛的维纳斯",
+    "unlocked": true,
+    "icon": "crown"
+  },
+  {
+    "id": "french-history",
+    "title": "街垒与王冠",
+    "description": "走完一段法国历史的视觉剧场",
+    "unlocked": true,
+    "icon": "flag"
+  },
+  {
+    "id": "ancient-explorer",
+    "title": "石碑读信人",
+    "description": "读懂一段古文明留在石头上的秩序",
+    "unlocked": false,
+    "icon": "landmark"
+  },
+  {
+    "id": "goddess-route",
+    "title": "女神侧影",
+    "description": "沿着美、胜利与自由的形象走了一圈",
+    "unlocked": false,
+    "icon": "award"
+  },
+  {
+    "id": "quiet-route",
+    "title": "慢看的人",
+    "description": "在安静角落里收下一些隐秘高光",
+    "unlocked": false,
+    "icon": "book-open"
+  }
+]

@@ -1,0 +1,904 @@
+[
+  {
+    "id": "mona-lisa",
+    "titleZh": "蒙娜丽莎",
+    "titleEn": "Mona Lisa",
+    "artist": "Leonardo da Vinci",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "Room 711",
+    "category": "绘画",
+    "routeIds": [
+      "classic-route",
+      "renaissance-route",
+      "goddess-power-route"
+    ],
+    "oneLine": "为什么她不算最华丽，却成了世界第一名画？",
+    "shortGuide": "这幅画的魅力不只在微笑，而在达·芬奇把人物、空气、视线和神秘感融合成了一个几乎无法被解释清楚的瞬间。",
+    "details": [
+      "她的眼睛像是在跟随你移动",
+      "背后的山水不是现实地点，更像精神风景",
+      "嘴角的模糊处理让表情变得难以判断"
+    ],
+    "story": "《蒙娜丽莎》像卢浮宫里的顶流明星：你很难独占她，但只要知道该看什么，远远一眼也能看出达·芬奇如何把理性结构和暧昧情绪塞进一张脸里。",
+    "tags": [
+      "文艺复兴",
+      "肖像",
+      "达·芬奇"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+    "durationMinutes": 4,
+    "importance": 10
+  },
+  {
+    "id": "winged-victory",
+    "titleZh": "萨莫色雷斯的胜利女神",
+    "titleEn": "Winged Victory of Samothrace",
+    "artist": "未知",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "Room 703",
+    "category": "雕塑",
+    "routeIds": [
+      "classic-route",
+      "goddess-power-route",
+      "quiet-highlights-route"
+    ],
+    "oneLine": "她没有头和手，却像刚刚迎风降落在船头。",
+    "shortGuide": "这座雕像表现胜利女神尼刻降临战船船头的瞬间。虽然头部和手臂已经缺失，但身体前倾的姿态、被风吹起的衣褶和展开的翅膀，让她仍然充满强烈的运动感。",
+    "details": [
+      "衣褶像被海风压在身体上",
+      "身体不是静止站立，而是向前降落",
+      "残缺反而增强了想象空间"
+    ],
+    "story": "她站在楼梯尽头，像整个卢浮宫先给你一个下马威：别急着找头和手，先感受风、速度和胜利落地的那一秒。",
+    "tags": [
+      "希腊化",
+      "胜利",
+      "雕塑"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nike_of_Samothrake_Louvre_Ma2369_n4.jpg",
+    "durationMinutes": 4,
+    "importance": 10
+  },
+  {
+    "id": "venus-de-milo",
+    "titleZh": "米洛的维纳斯",
+    "titleEn": "Venus de Milo",
+    "artist": "未知",
+    "wing": "Sully 叙利馆",
+    "floor": "Niveau 0",
+    "room": "Room 345",
+    "category": "雕塑",
+    "routeIds": [
+      "classic-route",
+      "goddess-power-route"
+    ],
+    "oneLine": "她失去了双臂，却成了西方美的经典模板。",
+    "shortGuide": "这座雕像让人着迷的地方，不只是身体比例，而是残缺带来的想象。人们无法确定她原本在做什么，于是她被不断重新解释。",
+    "details": [
+      "身体重心形成优雅的 S 型",
+      "残缺让动作变得开放",
+      "她既像女神，也像理想化的人体"
+    ],
+    "story": "她的手臂不见了，争论却没停过。某种意义上，维纳斯的缺失部分成了观众和学者共同补完的想象空间。",
+    "tags": [
+      "古希腊",
+      "女神",
+      "人体"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Venus_de_Milo_Louvre_Ma399_n4.jpg",
+    "durationMinutes": 4,
+    "importance": 10
+  },
+  {
+    "id": "napoleon-coronation",
+    "titleZh": "拿破仑一世加冕大典",
+    "titleEn": "The Coronation of Napoleon",
+    "artist": "Jacques-Louis David",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "Room 702",
+    "category": "绘画",
+    "routeIds": [
+      "classic-route",
+      "french-history-route"
+    ],
+    "oneLine": "这不只是加冕现场，更是一场精心设计的权力表演。",
+    "shortGuide": "画面记录的是拿破仑加冕的历史瞬间，但它并不是单纯纪实。人物站位、光线和动作都在告诉观众：新的权力秩序已经登场。",
+    "details": [
+      "拿破仑把皇冠戴给约瑟芬",
+      "教皇在场，但不是画面的绝对中心",
+      "巨大画幅让观众像站在历史现场"
+    ],
+    "story": "这幅画像一张巨型政治海报，只是画得太漂亮，以至于你差点忘了它正在非常认真地制造权威。",
+    "tags": [
+      "法国历史",
+      "帝国",
+      "巨幅绘画"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis_David_-_The_Coronation_of_Napoleon_%281805-1807%29.jpg",
+    "durationMinutes": 5,
+    "importance": 9
+  },
+  {
+    "id": "liberty-leading",
+    "titleZh": "自由引导人民",
+    "titleEn": "Liberty Leading the People",
+    "artist": "Eugène Delacroix",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "Room 700",
+    "category": "绘画",
+    "routeIds": [
+      "classic-route",
+      "french-history-route",
+      "goddess-power-route"
+    ],
+    "oneLine": "这个女人不是一个真实人物，却成了法国精神的象征。",
+    "shortGuide": "画中的女性并不是具体人物，而是自由的化身。她站在烟雾、尸体和人群之中，带领人们向前，象征革命激情和国家想象。",
+    "details": [
+      "女性手中的三色旗是视觉中心",
+      "人群来自不同阶层",
+      "美和暴力同时出现在同一画面"
+    ],
+    "story": "她不是来摆拍的女神，她是带着尘土、烟雾和危险气味冲出来的象征。法国人把抽象的自由画成了一个会带队的人。",
+    "tags": [
+      "浪漫主义",
+      "革命",
+      "法国"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg",
+    "durationMinutes": 5,
+    "importance": 9
+  },
+  {
+    "id": "medusa-raft",
+    "titleZh": "梅杜萨之筏",
+    "titleEn": "The Raft of the Medusa",
+    "artist": "Théodore Géricault",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "Room 700 附近法国绘画区",
+    "category": "绘画",
+    "routeIds": [
+      "french-history-route",
+      "quiet-highlights-route"
+    ],
+    "oneLine": "这幅画曾像社会新闻一样震动法国。",
+    "shortGuide": "这幅画取材于真实海难事件。它没有回避死亡、绝望和政治失职，而是把灾难画成一场巨大的公共控诉。",
+    "details": [
+      "画面从死亡逐渐走向希望",
+      "远处小船几乎看不清",
+      "人体姿态像古典雕塑，却讲现代悲剧"
+    ],
+    "story": "它不是灾难片海报，而是十九世纪的舆论爆款。画家把新闻、尸体、政治失误和希望全部压进一张让人无法轻松路过的画里。",
+    "tags": [
+      "浪漫主义",
+      "海难",
+      "公共事件"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_%28Museo_del_Louvre%2C_1818-19%29.jpg",
+    "durationMinutes": 5,
+    "importance": 9
+  },
+  {
+    "id": "dying-slave",
+    "titleZh": "垂死的奴隶",
+    "titleEn": "The Dying Slave",
+    "artist": "Michelangelo",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 0",
+    "room": "Room 403",
+    "category": "雕塑",
+    "routeIds": [
+      "classic-route",
+      "quiet-highlights-route"
+    ],
+    "oneLine": "身体在挣扎，表情却像进入梦境。",
+    "shortGuide": "米开朗基罗把身体的力量和精神的松弛放在一起。它看起来像痛苦，也像解脱，因此拥有一种复杂的美感。",
+    "details": [
+      "扭转的身体制造张力",
+      "闭合的眼睛削弱了痛苦感",
+      "未完成感让石头和身体并存"
+    ],
+    "story": "米开朗基罗的石头总像差一点就要变成人。这件作品安静得很，但身体线条其实一直在用力。",
+    "tags": [
+      "米开朗基罗",
+      "文艺复兴",
+      "雕塑"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Michelangelo%2C_esclave_mourant_%28mus%C3%A9e_du_Louvre%29_%282%29.jpg",
+    "durationMinutes": 4,
+    "importance": 8
+  },
+  {
+    "id": "apollo-gallery",
+    "titleZh": "阿波罗长廊",
+    "titleEn": "Galerie d’Apollon",
+    "artist": "多人",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "Room 705",
+    "category": "装饰艺术",
+    "routeIds": [
+      "classic-route",
+      "quiet-highlights-route",
+      "goddess-power-route"
+    ],
+    "oneLine": "这里像一条用金色和权力装饰出的王室走廊。",
+    "shortGuide": "阿波罗长廊展示的不只是装饰艺术，也是一种王权审美。金色、天顶画、宝石和空间尺度共同制造出权力的视觉语言。",
+    "details": [
+      "天顶装饰强调太阳神阿波罗",
+      "金色细节制造王室感",
+      "空间本身就是一件作品"
+    ],
+    "story": "如果你在这里觉得眼睛有点忙，那就对了。王室审美的任务之一，就是让你一抬头就意识到：这不是普通走廊。",
+    "tags": [
+      "装饰艺术",
+      "王权",
+      "空间"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Galerie_d%27Apollon_-_Mus%C3%A9e_du_Louvre.jpg",
+    "durationMinutes": 4,
+    "importance": 8
+  },
+  {
+    "id": "hammurabi-code",
+    "titleZh": "汉谟拉比法典",
+    "titleEn": "Code of Hammurabi",
+    "artist": "未知",
+    "wing": "Richelieu 黎塞留馆",
+    "floor": "Niveau 0",
+    "room": "近东古物区域",
+    "category": "古文明",
+    "routeIds": [
+      "classic-route",
+      "ancient-civilization-route"
+    ],
+    "oneLine": "这块黑色石碑让法律第一次拥有了可被看见的形状。",
+    "shortGuide": "法典把统治、法律和神权刻在石头上。它不只是古代文字，也是权力如何被公开展示的早期例子。",
+    "details": [
+      "顶部浮雕表现王接受神授权威",
+      "文字密集刻满石碑",
+      "法律被固定成公共可见的形式"
+    ],
+    "story": "这不是一块安静的石头，而是一份非常古老的公告：规则被写下来、竖起来，并且希望所有人都知道是谁让规则有效。",
+    "tags": [
+      "古巴比伦",
+      "法律",
+      "近东"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Code_of_Hammurabi_IMG_1937.JPG",
+    "durationMinutes": 5,
+    "importance": 9
+  },
+  {
+    "id": "virgin-rocks",
+    "titleZh": "岩间圣母",
+    "titleEn": "Virgin of the Rocks",
+    "artist": "Leonardo da Vinci",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "意大利绘画区",
+    "category": "绘画",
+    "routeIds": [
+      "renaissance-route",
+      "quiet-highlights-route"
+    ],
+    "oneLine": "达·芬奇把宗教故事画成了一个幽暗而神秘的自然舞台。",
+    "shortGuide": "这幅画不同于明亮庄严的传统宗教画。达·芬奇用岩洞、柔光和人物手势，让宗教场景变得暧昧、自然又神秘。",
+    "details": [
+      "人物之间靠手势形成关系",
+      "背景岩洞增强神秘感",
+      "柔和光影让边界变得模糊"
+    ],
+    "story": "如果《蒙娜丽莎》是达·芬奇的人脸谜题，这幅就是他的气氛谜题。人物不大声说话，但手势和光线已经在悄悄安排关系。",
+    "tags": [
+      "达·芬奇",
+      "宗教画",
+      "文艺复兴"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_da_Vinci_-_Virgin_of_the_Rocks_%28Louvre%29.jpg",
+    "durationMinutes": 4,
+    "importance": 8
+  },
+  {
+    "id": "wedding-cana",
+    "titleZh": "迦拿的婚礼",
+    "titleEn": "The Wedding at Cana",
+    "artist": "Paolo Veronese",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "Room 711",
+    "category": "绘画",
+    "routeIds": [
+      "classic-route",
+      "renaissance-route"
+    ],
+    "oneLine": "蒙娜丽莎对面的巨幅热闹现场，经常被人华丽地忽略。",
+    "shortGuide": "维罗内塞把宗教故事画成威尼斯式盛宴：建筑、乐队、宾客、餐具和色彩共同构成一场极度讲究的视觉派对。",
+    "details": [
+      "画幅巨大到像一面舞台墙",
+      "宗教奇迹被放进宴会日常",
+      "人物密集但秩序清楚"
+    ],
+    "story": "很多人背对着它排队看《蒙娜丽莎》，但它其实像在说：朋友，我这么大一张画你真的不看看吗？",
+    "tags": [
+      "威尼斯画派",
+      "宗教",
+      "宴会"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paolo_Veronese_008.jpg",
+    "durationMinutes": 4,
+    "importance": 8
+  },
+  {
+    "id": "lacemaker",
+    "titleZh": "花边女工",
+    "titleEn": "The Lacemaker",
+    "artist": "Johannes Vermeer",
+    "wing": "Richelieu 黎塞留馆",
+    "floor": "Niveau 2",
+    "room": "北方绘画区",
+    "category": "绘画",
+    "routeIds": [
+      "quiet-highlights-route",
+      "renaissance-route"
+    ],
+    "oneLine": "它很小，却安静得像把整个世界调低了音量。",
+    "shortGuide": "维米尔擅长把日常瞬间变成光的研究。这位女工低头工作，画面没有戏剧冲突，却有极强的专注感。",
+    "details": [
+      "画面尺寸很小，需要靠近看",
+      "黄色衣服和红蓝线团形成色彩点",
+      "焦点集中在双手和工具"
+    ],
+    "story": "在卢浮宫这种巨作扎堆的地方，它像一条轻声提醒：小画不等于小声量。",
+    "tags": [
+      "荷兰绘画",
+      "日常",
+      "光线"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Vermeer_van_Delft_013.jpg",
+    "durationMinutes": 3,
+    "importance": 7
+  },
+  {
+    "id": "turkish-bath",
+    "titleZh": "土耳其浴室",
+    "titleEn": "The Turkish Bath",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "wing": "Sully 叙利馆",
+    "floor": "Niveau 2",
+    "room": "法国绘画区",
+    "category": "绘画",
+    "routeIds": [
+      "french-history-route",
+      "goddess-power-route"
+    ],
+    "oneLine": "古典线条和东方想象，被安格尔卷进了一个圆形画面。",
+    "shortGuide": "安格尔用极流畅的线条描绘女性身体，同时也反映了十九世纪欧洲对东方空间的想象与投射。",
+    "details": [
+      "圆形画框强化窥视感",
+      "人物姿态像线条练习的集合",
+      "所谓东方更多来自欧洲想象"
+    ],
+    "story": "这幅画漂亮，但也需要带着问题看：是谁在观看？谁被想象？美感背后常常藏着时代偏见。",
+    "tags": [
+      "安格尔",
+      "古典主义",
+      "东方主义"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ingres_-_Le_Bain_Turc.jpg",
+    "durationMinutes": 4,
+    "importance": 7
+  },
+  {
+    "id": "grande-odalisque",
+    "titleZh": "大宫女",
+    "titleEn": "Grande Odalisque",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "法国绘画区",
+    "category": "绘画",
+    "routeIds": [
+      "french-history-route",
+      "goddess-power-route"
+    ],
+    "oneLine": "她的背被画得不太科学，却非常安格尔。",
+    "shortGuide": "安格尔为了追求线条的优雅，故意拉长身体比例。它不是解剖课，而是古典主义审美对现实身体的再加工。",
+    "details": [
+      "背部比例明显被拉长",
+      "冷色和织物制造奢华感",
+      "东方道具反映十九世纪想象"
+    ],
+    "story": "如果你觉得哪里不太对，恭喜，你看到了重点。安格尔宁愿牺牲真实，也要保住那条漂亮的曲线。",
+    "tags": [
+      "安格尔",
+      "人体",
+      "东方主义"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Auguste_Dominique_Ingres%2C_La_Grande_Odalisque%2C_1814.jpg",
+    "durationMinutes": 4,
+    "importance": 8
+  },
+  {
+    "id": "oath-horatii",
+    "titleZh": "荷拉斯兄弟之誓",
+    "titleEn": "Oath of the Horatii",
+    "artist": "Jacques-Louis David",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "Room 702",
+    "category": "绘画",
+    "routeIds": [
+      "french-history-route",
+      "classic-route"
+    ],
+    "oneLine": "一幅画把男人的誓言和女人的悲伤分成两个世界。",
+    "shortGuide": "大卫用清晰构图、硬朗线条和罗马题材表达公民责任。这是新古典主义的典型作品，也预告了革命时代的价值语言。",
+    "details": [
+      "三兄弟伸手宣誓形成强烈几何结构",
+      "女性群像柔软低垂",
+      "拱门把人物分成不同情绪区"
+    ],
+    "story": "它像一张特别严肃的价值观海报：个人情感先放旁边，公共责任正在镜头中央发光。",
+    "tags": [
+      "新古典主义",
+      "大卫",
+      "罗马"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis_David%2C_Le_Serment_des_Horaces.jpg",
+    "durationMinutes": 4,
+    "importance": 8
+  },
+  {
+    "id": "psyche-cupid",
+    "titleZh": "被爱神之吻唤醒的普赛克",
+    "titleEn": "Psyche Revived by Cupid's Kiss",
+    "artist": "Antonio Canova",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 0",
+    "room": "雕塑区",
+    "category": "雕塑",
+    "routeIds": [
+      "goddess-power-route",
+      "quiet-highlights-route"
+    ],
+    "oneLine": "大理石被卡诺瓦雕成了快要呼吸的爱情瞬间。",
+    "shortGuide": "卡诺瓦以新古典主义的优雅处理神话场景。两个人物的手臂构成环形，让亲吻前后的瞬间被永久暂停。",
+    "details": [
+      "手臂交织形成柔和圆环",
+      "大理石表面被处理得像肌肤",
+      "动作停在亲吻刚刚发生的时刻"
+    ],
+    "story": "这件雕塑很会拿捏：不把爱情演得太满，只停在刚醒来的那一秒，让观众自己把心跳补上。",
+    "tags": [
+      "卡诺瓦",
+      "神话",
+      "新古典主义"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Amor-Psyche-Canova-JBU02.JPG",
+    "durationMinutes": 4,
+    "importance": 8
+  },
+  {
+    "id": "seated-scribe",
+    "titleZh": "书记坐像",
+    "titleEn": "The Seated Scribe",
+    "artist": "未知",
+    "wing": "Sully 叙利馆",
+    "floor": "Niveau 1",
+    "room": "埃及古物区",
+    "category": "古文明",
+    "routeIds": [
+      "ancient-civilization-route",
+      "quiet-highlights-route"
+    ],
+    "oneLine": "他坐了四千多年，眼神依然像刚听见老板喊名字。",
+    "shortGuide": "这件古埃及雕像以异常生动的眼睛和自然姿态著称。它让我们看到古代社会中书写者的特殊地位。",
+    "details": [
+      "眼睛使用材料镶嵌，格外有神",
+      "坐姿自然，不像法老像那样神化",
+      "腹部和手部处理很写实"
+    ],
+    "story": "法老负责永恒，书记负责记录永恒。这个分工听起来朴素，但在古代世界非常重要。",
+    "tags": [
+      "古埃及",
+      "书写",
+      "雕像"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/F0829_Louvre_Scribe_accroupi_detail_E3023_rwk.jpg",
+    "durationMinutes": 4,
+    "importance": 8
+  },
+  {
+    "id": "lamassu",
+    "titleZh": "亚述人面翼牛",
+    "titleEn": "Assyrian Lamassu",
+    "artist": "未知",
+    "wing": "Richelieu 黎塞留馆",
+    "floor": "Niveau 0",
+    "room": "近东古物区",
+    "category": "古文明",
+    "routeIds": [
+      "ancient-civilization-route"
+    ],
+    "oneLine": "它既像守门保安，又像古代权力的超大号头像。",
+    "shortGuide": "拉玛苏结合人头、牛身、翅膀等元素，常被放置在宫殿入口，象征保护、力量和统治权威。",
+    "details": [
+      "正面看是静止，侧面看像在行走",
+      "人头代表智慧，牛身代表力量",
+      "体量本身就制造震慑感"
+    ],
+    "story": "古代宫殿入口不靠提示牌说“请保持安静”，而是直接摆两个巨大的神兽告诉你：这里不是随便进的地方。",
+    "tags": [
+      "亚述",
+      "守护神",
+      "近东"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Human-headed_Winged_Bulls_Gate_Khorsabad_-_Louvre_02aa.jpg",
+    "durationMinutes": 4,
+    "importance": 7
+  },
+  {
+    "id": "great-sphinx-tanis",
+    "titleZh": "塔尼斯大狮身人面像",
+    "titleEn": "Great Sphinx of Tanis",
+    "artist": "未知",
+    "wing": "Sully 叙利馆",
+    "floor": "Niveau -1",
+    "room": "埃及古物入口",
+    "category": "古文明",
+    "routeIds": [
+      "ancient-civilization-route",
+      "classic-route"
+    ],
+    "oneLine": "卢浮宫的埃及入口，先用一只大型沉默生物欢迎你。",
+    "shortGuide": "狮身人面像把法老面孔和狮子身体结合，象征王权、守护和神圣力量。它也是进入埃及展区的重要视觉节点。",
+    "details": [
+      "身体像狮子，头部具王权特征",
+      "材质厚重，姿态稳定",
+      "入口位置强化仪式感"
+    ],
+    "story": "它不急着解释自己，只负责把气场摆在那里。很多古文明的权力表达，首先就是要足够稳、足够大。",
+    "tags": [
+      "古埃及",
+      "狮身人面像",
+      "王权"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Louvre-antiquites-egyptiennes-p1020361-gradient.jpg",
+    "durationMinutes": 4,
+    "importance": 8
+  },
+  {
+    "id": "marly-horses",
+    "titleZh": "马利骏马",
+    "titleEn": "Marly Horses",
+    "artist": "Guillaume Coustou",
+    "wing": "Richelieu 黎塞留馆",
+    "floor": "Niveau -1",
+    "room": "马利庭院",
+    "category": "雕塑",
+    "routeIds": [
+      "quiet-highlights-route",
+      "french-history-route"
+    ],
+    "oneLine": "马和人都在用力，像把宫廷雕塑拍成了动作片。",
+    "shortGuide": "这组雕塑原为马利城堡花园而作，表现驯马的紧张瞬间。它把古典雕塑的肌肉和巴洛克式动感结合起来。",
+    "details": [
+      "马身扭动制造强烈动势",
+      "人与马形成力量对抗",
+      "放在庭院中更能感受尺度"
+    ],
+    "story": "它证明宫廷艺术不只有优雅，也可以很有劲。马不配合，雕塑反而好看了。",
+    "tags": [
+      "法国雕塑",
+      "马利庭院",
+      "动感"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cour_Marly_and_Meleager.jpg",
+    "durationMinutes": 4,
+    "importance": 7
+  },
+  {
+    "id": "napoleon-apartments",
+    "titleZh": "拿破仑三世套房",
+    "titleEn": "Napoleon III Apartments",
+    "artist": "多人",
+    "wing": "Richelieu 黎塞留馆",
+    "floor": "Niveau 1",
+    "room": "拿破仑三世套房",
+    "category": "装饰艺术",
+    "routeIds": [
+      "french-history-route",
+      "quiet-highlights-route"
+    ],
+    "oneLine": "如果你想知道“豪华到有点过分”长什么样，来这里。",
+    "shortGuide": "拿破仑三世套房保留了第二帝国时期的室内装饰风格，水晶灯、红色织物和金色装饰共同构成权力生活的舞台。",
+    "details": [
+      "红金配色制造强烈仪式感",
+      "吊灯和镜面扩大空间感",
+      "家具陈设展示第二帝国审美"
+    ],
+    "story": "这里像一间不会低调说话的房间。它的核心功能不是舒适，而是让来访者知道主人很会花钱，也很懂排场。",
+    "tags": [
+      "第二帝国",
+      "室内装饰",
+      "权力"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Appartements_Napol%C3%A9on_III_Louvre_2011.jpg",
+    "durationMinutes": 4,
+    "importance": 8
+  },
+  {
+    "id": "bather-valpincon",
+    "titleZh": "瓦平松浴女",
+    "titleEn": "The Valpinçon Bather",
+    "artist": "Jean-Auguste-Dominique Ingres",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "法国绘画区",
+    "category": "绘画",
+    "routeIds": [
+      "goddess-power-route",
+      "quiet-highlights-route"
+    ],
+    "oneLine": "她背对观众，却把安格尔的线条洁癖暴露无遗。",
+    "shortGuide": "这幅画用背影、织物和干净轮廓展现安格尔对线条的迷恋。人物几乎没有情节，却有高度形式美。",
+    "details": [
+      "背影让人物更像形式研究",
+      "轮廓线干净而克制",
+      "织物和皮肤形成质感对比"
+    ],
+    "story": "安格尔画人体时像在写一行极慢的字，每一条线都要端正、漂亮、不能慌。",
+    "tags": [
+      "安格尔",
+      "人体",
+      "新古典主义"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean_Auguste_Dominique_Ingres_-_The_Valpin%C3%A7on_Bather.jpg",
+    "durationMinutes": 3,
+    "importance": 7
+  },
+  {
+    "id": "st-john-baptist",
+    "titleZh": "施洗者圣约翰",
+    "titleEn": "Saint John the Baptist",
+    "artist": "Leonardo da Vinci",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "意大利绘画区",
+    "category": "绘画",
+    "routeIds": [
+      "renaissance-route",
+      "quiet-highlights-route"
+    ],
+    "oneLine": "达·芬奇把一个宗教人物画得像在说：我知道一个秘密。",
+    "shortGuide": "画中的圣约翰从黑暗中浮现，手指指向上方，微笑含混神秘。达·芬奇的晕涂法让人物边界变得柔软。",
+    "details": [
+      "人物从深色背景中浮现",
+      "手势指向宗教意义",
+      "微笑带有达·芬奇式暧昧"
+    ],
+    "story": "这幅画的气质有点像《蒙娜丽莎》的神秘亲戚：不说透，但一直看着你。",
+    "tags": [
+      "达·芬奇",
+      "宗教画",
+      "晕涂法"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
+    "durationMinutes": 3,
+    "importance": 8
+  },
+  {
+    "id": "beautiful-gardener",
+    "titleZh": "美丽的园丁",
+    "titleEn": "La Belle Jardinière",
+    "artist": "Raphael",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "意大利绘画区",
+    "category": "绘画",
+    "routeIds": [
+      "renaissance-route",
+      "classic-route"
+    ],
+    "oneLine": "拉斐尔把圣母子关系画得像一首非常稳的和声。",
+    "shortGuide": "拉斐尔以平衡构图、柔和人物和清晰情感著称。这幅画展示了盛期文艺复兴追求的和谐与理想美。",
+    "details": [
+      "三角形构图稳定画面",
+      "人物目光和手势形成温柔关系",
+      "背景风景增加宁静感"
+    ],
+    "story": "如果达·芬奇负责神秘，米开朗基罗负责力量，拉斐尔就负责把一切调到刚刚好的和谐频道。",
+    "tags": [
+      "拉斐尔",
+      "文艺复兴",
+      "圣母子"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/La_belle_jardiniere.jpg",
+    "durationMinutes": 3,
+    "importance": 8
+  },
+  {
+    "id": "baldassare-castiglione",
+    "titleZh": "卡斯蒂廖内像",
+    "titleEn": "Portrait of Baldassare Castiglione",
+    "artist": "Raphael",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "意大利绘画区",
+    "category": "绘画",
+    "routeIds": [
+      "renaissance-route",
+      "quiet-highlights-route"
+    ],
+    "oneLine": "这可能是文艺复兴时期最会“松弛感”的肖像之一。",
+    "shortGuide": "拉斐尔用温和色调和自然姿态表现理想宫廷人的气质：有教养、克制、聪明，但绝不大声炫耀。",
+    "details": [
+      "灰黑色调低调高级",
+      "目光平静但有存在感",
+      "服饰质感服务于人物气质"
+    ],
+    "story": "这张脸看起来像不会在群聊里刷屏，但一开口大家都会安静听。",
+    "tags": [
+      "拉斐尔",
+      "肖像",
+      "宫廷文化"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Baldassare_Castiglione%2C_by_Raffaello_Sanzio%2C_from_C2RMF_retouched.jpg",
+    "durationMinutes": 3,
+    "importance": 7
+  },
+  {
+    "id": "mariage-virgin",
+    "titleZh": "圣母加冕",
+    "titleEn": "Coronation of the Virgin",
+    "artist": "Fra Angelico",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 1",
+    "room": "意大利绘画区",
+    "category": "绘画",
+    "routeIds": [
+      "renaissance-route"
+    ],
+    "oneLine": "金色还没完全退出中世纪，透视已经开始走进文艺复兴。",
+    "shortGuide": "这幅作品处在中世纪金色圣像传统和文艺复兴空间探索之间。它适合用来理解风格过渡。",
+    "details": [
+      "金色背景带有宗教光辉",
+      "人物排列有仪式秩序",
+      "空间感比早期圣像更强"
+    ],
+    "story": "它像艺术史换挡时的一瞬间：旧世界还在发光，新世界已经开始搭建空间。",
+    "tags": [
+      "早期文艺复兴",
+      "宗教",
+      "金色"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fra_Angelico_038.jpg",
+    "durationMinutes": 3,
+    "importance": 7
+  },
+  {
+    "id": "sleeping-hermaphroditus",
+    "titleZh": "沉睡的赫尔玛佛洛狄忒斯",
+    "titleEn": "Sleeping Hermaphroditus",
+    "artist": "未知，床垫由 Bernini 创作",
+    "wing": "Sully 叙利馆",
+    "floor": "Niveau 0",
+    "room": "古希腊罗马雕塑区",
+    "category": "雕塑",
+    "routeIds": [
+      "goddess-power-route",
+      "quiet-highlights-route"
+    ],
+    "oneLine": "你以为只是优雅背影，转过去才发现古典艺术也会反转。",
+    "shortGuide": "这件作品利用观看角度制造惊讶效果。贝尼尼后来为其雕刻的大理石床垫，软得让人差点忘记它也是石头。",
+    "details": [
+      "观看角度带来身份反转",
+      "床垫质感极其柔软",
+      "古典身体观念比想象中复杂"
+    ],
+    "story": "它很适合提醒我们：古典艺术不是只有标准答案，它也会玩视角、误导和悬念。",
+    "tags": [
+      "古典雕塑",
+      "性别",
+      "贝尼尼"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hermaphroditus_Borghese_Louvre_Ma231_n2.jpg",
+    "durationMinutes": 4,
+    "importance": 7
+  },
+  {
+    "id": "marly-courtyard",
+    "titleZh": "马利庭院",
+    "titleEn": "Cour Marly",
+    "artist": "多人",
+    "wing": "Richelieu 黎塞留馆",
+    "floor": "Niveau -1",
+    "room": "马利庭院",
+    "category": "空间",
+    "routeIds": [
+      "quiet-highlights-route",
+      "french-history-route"
+    ],
+    "oneLine": "这里像把法国花园雕塑搬进了一只巨大的玻璃盒子。",
+    "shortGuide": "马利庭院集中展示原本用于宫苑和公共空间的法国雕塑。玻璃顶带来柔和自然光，让雕塑有接近户外的观看感。",
+    "details": [
+      "玻璃顶提供自然光",
+      "雕塑原本常服务于宫苑空间",
+      "适合休息和慢看"
+    ],
+    "story": "当你在卢浮宫快被信息淹没时，这里像一个能喘口气的雕塑客厅。",
+    "tags": [
+      "空间",
+      "法国雕塑",
+      "庭院"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cour_Marly%2C_Mus%C3%A9e_du_Louvre%2C_Paris_140320.jpg",
+    "durationMinutes": 3,
+    "importance": 7
+  },
+  {
+    "id": "diana-versailles",
+    "titleZh": "凡尔赛的狄安娜",
+    "titleEn": "Diana of Versailles",
+    "artist": "未知",
+    "wing": "Sully 叙利馆",
+    "floor": "Niveau 0",
+    "room": "古希腊罗马雕塑区",
+    "category": "雕塑",
+    "routeIds": [
+      "goddess-power-route",
+      "classic-route"
+    ],
+    "oneLine": "狩猎女神的步伐，比很多现代人上班还坚定。",
+    "shortGuide": "这件罗马复制品表现狩猎女神狄安娜前行的姿态。它将神话身份、运动感和古典人体结合起来。",
+    "details": [
+      "身体向前形成动态",
+      "鹿强化狩猎身份",
+      "衣褶和腿部动作配合节奏"
+    ],
+    "story": "她不是静态摆拍的女神，而是正在赶路的女神。古典雕塑里的力量，常常藏在步伐里。",
+    "tags": [
+      "狄安娜",
+      "神话",
+      "罗马复制"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Diane_de_Versailles_Leochares_2.jpg",
+    "durationMinutes": 3,
+    "importance": 7
+  },
+  {
+    "id": "rebellious-slave",
+    "titleZh": "反叛的奴隶",
+    "titleEn": "The Rebellious Slave",
+    "artist": "Michelangelo",
+    "wing": "Denon 德农馆",
+    "floor": "Niveau 0",
+    "room": "Room 403",
+    "category": "雕塑",
+    "routeIds": [
+      "classic-route",
+      "quiet-highlights-route"
+    ],
+    "oneLine": "他像被困在石头里，还在用全身和命运拧巴。",
+    "shortGuide": "这件作品与《垂死的奴隶》同属米开朗基罗为教皇陵墓构想的雕塑。身体强烈扭转，像在挣脱束缚，也像在展示艺术家如何让大理石产生生命张力。",
+    "details": [
+      "身体扭转比《垂死的奴隶》更激烈",
+      "未完成感保留了石头和人体的冲突",
+      "适合和米开朗基罗其他雕塑一起看"
+    ],
+    "story": "如果《垂死的奴隶》像睡着前的一声叹息，那这件更像一句“我还没同意”。米开朗基罗的雕塑，总能把安静的石头弄得很有脾气。",
+    "tags": [
+      "米开朗基罗",
+      "文艺复兴",
+      "雕塑"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rebellious_Slave_%28Michelangelo%29.jpg",
+    "durationMinutes": 3,
+    "importance": 7
+  }
+]

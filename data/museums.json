@@ -1,0 +1,16 @@
+[
+  {
+    "id": "louvre",
+    "name": "卢浮宫",
+    "city": "巴黎",
+    "status": "今日开放",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Louvre_Museum_Wikimedia_Commons.jpg/800px-Louvre_Museum_Wikimedia_Commons.jpg"
+  },
+  {
+    "id": "orsay",
+    "name": "奥赛博物馆",
+    "city": "巴黎",
+    "status": "即将支持",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mus%C3%A9e_d%27Orsay_2012.jpg/800px-Mus%C3%A9e_d%27Orsay_2012.jpg"
+  }
+]

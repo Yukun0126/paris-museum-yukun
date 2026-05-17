@@ -1,0 +1,72 @@
+[
+  {
+    "id": "classic-route",
+    "title": "初见卢浮宫：光与石的序章",
+    "subtitle": "第一次来卢浮宫，用 25 件作品建立一条从雕塑、绘画到王宫空间的观看线",
+    "duration": "2.5-3 小时",
+    "difficulty": "中等",
+    "crowdLevel": "较拥挤",
+    "targetUser": "第一次来卢浮宫、希望高效看懂重点的游客",
+    "description": "从胜利女神的石阶开始，经过达·芬奇的微笑、法国历史的巨幅画面和王宫空间的金色回声，建立一条完整但不慌张的初访路线。",
+    "artworkIds": ["winged-victory", "mona-lisa", "wedding-cana", "napoleon-coronation", "oath-horatii", "liberty-leading", "medusa-raft", "apollo-gallery", "dying-slave", "psyche-cupid", "venus-de-milo", "diana-versailles", "sleeping-hermaphroditus", "great-sphinx-tanis", "seated-scribe", "hammurabi-code", "lamassu", "napoleon-apartments", "marly-horses", "marly-courtyard", "virgin-rocks", "st-john-baptist", "beautiful-gardener", "baldassare-castiglione", "lacemaker"],
+    "tags": ["初见", "镇馆之宝", "光与石"],
+    "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/Nike_of_Samothrake_Louvre_Ma2369_n4.jpg",
+    "badgeIds": ["first-louvre", "three-icons"]
+  },
+  {
+    "id": "french-history-route",
+    "title": "权力的剧场：从王冠到街垒",
+    "subtitle": "从王权、革命到帝国，看法国如何把历史画成巨大的公共舞台",
+    "duration": "2-2.5 小时",
+    "difficulty": "中等",
+    "crowdLevel": "中等",
+    "targetUser": "喜欢革命、帝国、宫廷和宏大叙事的游客",
+    "description": "这条路线把法国绘画和室内空间当成一座政治剧场：王权如何闪耀，革命如何呐喊，帝国又如何把自己安排在画面中心。",
+    "artworkIds": ["oath-horatii", "napoleon-coronation", "liberty-leading", "medusa-raft", "grande-odalisque", "turkish-bath", "bather-valpincon", "napoleon-apartments", "marly-horses", "marly-courtyard", "apollo-gallery", "dying-slave", "psyche-cupid", "diana-versailles", "winged-victory", "venus-de-milo", "mona-lisa", "wedding-cana", "virgin-rocks", "beautiful-gardener", "hammurabi-code", "great-sphinx-tanis", "seated-scribe", "lacemaker", "sleeping-hermaphroditus"],
+    "tags": ["权力图像", "革命", "帝国"],
+    "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacques-Louis_David_-_The_Coronation_of_Napoleon_%281805-1807%29.jpg",
+    "badgeIds": ["french-history"]
+  },
+  {
+    "id": "ancient-civilization-route",
+    "title": "石碑、神祇与远古秩序",
+    "subtitle": "从埃及、近东到希腊罗马，看文字、神权和身体理想如何留下形状",
+    "duration": "2.5 小时",
+    "difficulty": "轻松",
+    "crowdLevel": "较安静",
+    "targetUser": "喜欢埃及、希腊、近东文明和文字制度的游客",
+    "description": "这条路线从石碑、神兽、书写者和古典身体出发，理解文明怎样把法律、信仰、秩序和美感固定成可以被观看的形状。",
+    "artworkIds": ["great-sphinx-tanis", "seated-scribe", "hammurabi-code", "lamassu", "venus-de-milo", "diana-versailles", "sleeping-hermaphroditus", "winged-victory", "psyche-cupid", "marly-horses", "marly-courtyard", "dying-slave", "apollo-gallery", "mona-lisa", "virgin-rocks", "beautiful-gardener", "st-john-baptist", "wedding-cana", "oath-horatii", "napoleon-coronation", "liberty-leading", "medusa-raft", "lacemaker", "napoleon-apartments", "grande-odalisque"],
+    "tags": ["远古秩序", "埃及", "近东"],
+    "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/Code_of_Hammurabi_IMG_1937.JPG",
+    "badgeIds": ["ancient-explorer"]
+  },
+  {
+    "id": "goddess-power-route",
+    "title": "女神的侧影：美、胜利与自由",
+    "subtitle": "从维纳斯、胜利女神到自由女神，看女性形象如何承载欲望、神话和权力",
+    "duration": "2-2.5 小时",
+    "difficulty": "中等",
+    "crowdLevel": "较拥挤",
+    "targetUser": "喜欢神话、女性形象、身体与视觉符号的游客",
+    "description": "这条路线不把女神当作漂亮图标，而是追问她们为什么被塑造成美、胜利、自由、欲望和国家想象的载体。",
+    "artworkIds": ["venus-de-milo", "winged-victory", "liberty-leading", "psyche-cupid", "diana-versailles", "sleeping-hermaphroditus", "turkish-bath", "grande-odalisque", "bather-valpincon", "mona-lisa", "virgin-rocks", "beautiful-gardener", "mariage-virgin", "st-john-baptist", "apollo-gallery", "wedding-cana", "lacemaker", "oath-horatii", "medusa-raft", "napoleon-coronation", "dying-slave", "great-sphinx-tanis", "hammurabi-code", "marly-courtyard", "napoleon-apartments"],
+    "tags": ["女神侧影", "身体", "自由"],
+    "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/Venus_de_Milo_Louvre_Ma399_n4.jpg",
+    "badgeIds": ["goddess-route"]
+  },
+  {
+    "id": "quiet-highlights-route",
+    "title": "慢看的回声：隐秘高光漫游",
+    "subtitle": "避开最拥挤人群，收集更安静、更有余味的卢浮宫瞬间",
+    "duration": "2 小时",
+    "difficulty": "轻松",
+    "crowdLevel": "较安静",
+    "targetUser": "不想只看热门作品、希望获得作品集式体验的游客",
+    "description": "这条路线留给愿意慢下来的人：小画、庭院、安静雕塑和不那么拥挤的空间，会让卢浮宫从打卡地点变成可以回味的现场。",
+    "artworkIds": ["lacemaker", "baldassare-castiglione", "mariage-virgin", "st-john-baptist", "virgin-rocks", "bather-valpincon", "sleeping-hermaphroditus", "psyche-cupid", "dying-slave", "apollo-gallery", "napoleon-apartments", "marly-courtyard", "marly-horses", "seated-scribe", "lamassu", "hammurabi-code", "great-sphinx-tanis", "diana-versailles", "wedding-cana", "beautiful-gardener", "mona-lisa", "winged-victory", "venus-de-milo", "liberty-leading", "medusa-raft"],
+    "tags": ["慢看", "隐秘高光", "安静路线"],
+    "cover": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan_Vermeer_van_Delft_013.jpg",
+    "badgeIds": ["quiet-route"]
+  }
+]
